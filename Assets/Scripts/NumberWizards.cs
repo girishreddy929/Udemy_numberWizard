@@ -10,7 +10,7 @@ public class NumberWizards : MonoBehaviour {
 
 	void Start () {
 		
-		print ("Welcome to Number Wizards ");
+		print ("Welcome to Number Wizard ");
 		print ("Select a number and don't tell me!");
 
 
